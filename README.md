@@ -8,3 +8,4 @@
 
 
  Go语言圣经（中文版） https://books.studygolang.com/gopl-zh/index.html
+  FireShot
