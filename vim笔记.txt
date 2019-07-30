@@ -29,6 +29,10 @@ gC - 块代码注释.输入 gCi) 注释 括号()中的代码。
 
 :%s/A/B
 
+ma: create a mark named a (can be a character in a-z)
+`a: go the exact position denoted by mark a     当时光标停留处
+'a: go to the exact column denoted by mark a     当时光标停留的那行
+
 涉及在linux命令行下进行快速移动光标、命令编辑、编辑后执行历史命令、Bang(!)命令、控制命令等。让basher更有效率。
 
  常用
