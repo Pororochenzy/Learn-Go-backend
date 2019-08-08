@@ -1,2 +1,0 @@
-update auth_menu set data_flag=1 where id in (37, 114, 124, 125, 446, 157, 158, 163, 164, 2, 9, 444, 116, 117, 118, 121, 4, 5, 6, 11, 70, 71);
-update auth_role_menu set data_flag=1, data_range='all' where menu_id in (37, 114, 124, 125, 446, 157, 158, 163, 164, 2, 9, 444, 116, 117, 118, 121, 4, 5, 6, 11, 70, 71);
