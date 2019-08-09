@@ -50,3 +50,7 @@ https://github.com/Quorafind/golang-developer-roadmap-cn/blob/master/golang-deve
 Golang标准库文档 https://studygolang.com/pkgdoc
 
 XORM文档  https://gowalker.org/github.com/go-xorm/xorm
+
+超赞的 Go 语言 INI 文件操作 https://ini.unknwon.io/ 
+工具包 https://github.com/Unknwon/com 
+使用JWT进行身份校验 https://github.com/dgrijalva/jwt-go 
